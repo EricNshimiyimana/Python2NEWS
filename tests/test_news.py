@@ -28,4 +28,6 @@ class ArticlesTest(unittest.TestCase):
 
     def test_instance(self):
         self.assertTrue(isinstance(self.new_article,Articles))
+        
+        
 
