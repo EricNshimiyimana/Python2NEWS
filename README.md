@@ -1,46 +1,29 @@
-# News Highlights
+News Review
+This is an application that will help someone list and preview news articles from various sources.
 
-News Highlights is a web appliction that displays a list of news sources from around the world. A users are able to click on a news source and view articles about any news they want. They can even read more about that article.
+BY
+Eric Nshimiyimana
 
-## Author
+Description
+This is an application that will help someone list and preview news articles from various sources.
 
-Rosine Uwamariya, 27 Nov 2020
+User Stories
+As a user I would like:
 
-## Description
+would like to see various news sources on the homepage of the application
+would also want to select a news source and see all news articles from the selected news source in the application
+would want to see the image, description and the time a news article was created.
+would want to click on an article and read the full article on the source website.
+Technologies Used
+Python3.8
 
-News Highlights is a web appliction that displays a list of news sources from around the world. A users are able to click on a news source and view articles about any news they want. They can even read more about that article.
+Known Bugs
+There are no known bugs at the moment
+Contact and Support
+In case you have any issue on this project feel free to reach out to me (nericmpc@gmail.com). Also feel free to make contribtion to the code.
 
-## Behavior Driven Development
-
-
-* Display news sources
-* Display articles from a news source
-* Display the preview of an article
-* Read an entire article
-
-### Input
-
-* On page load
-* Click a news source
-* Click an article
-
-### Output
-
-* List of various news sources is displayed per category
-* Redirected to a page with a list of articles from the source
-* Each article displays an image, title, description and publication date
-* Redirected to the news source's site to read the entire article 
-
-## Technologies Used
-
-It used Python,Flask, HTML, CSS and bootStrap.
-
-## Support and contact details
-
-For any issues or questions, ideas or concern, please contact me.
-
-### License
-
-MIT license
-
-Copyright (c) 202 Moringa School.
+The application requires the following installations to operate
+python3.8
+pip
+License
+MIT licence copyright(c) 2021 Eric Nshimiyimana
